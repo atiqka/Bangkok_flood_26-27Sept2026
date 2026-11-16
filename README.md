@@ -1,4 +1,4 @@
-### Bangkok City Flood Severity Map (BMA districts) - 26-27 September 2026 ###
+# Bangkok City Flood Severity Map (BMA districts) - 26-27 September 2026 #
 
 Author: Atiq Kainan Ahmed. Email: atiqka@yahoo.com
 
